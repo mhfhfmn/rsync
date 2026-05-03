@@ -31,6 +31,6 @@
 
 ### Решение
 
-[Скрипт резервного копирования](https://github.com/mhfhfmn/rsync/blob/main/backup_home.sh)
-[Файл настройки cron](https://github.com/mhfhfmn/rsync/blob/main/crontab)
+- [Скрипт резервного копирования](https://github.com/mhfhfmn/rsync/blob/main/backup_home.sh)
+- [Файл настройки cron](https://github.com/mhfhfmn/rsync/blob/main/crontab)
 ![Результат выполнения скрипта в syslog](https://github.com/mhfhfmn/rsync/blob/main/img/rsync_2.jpg)
